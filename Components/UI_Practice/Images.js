@@ -1,0 +1,1 @@
+export const paperImage=require('../Images/hello.png');
