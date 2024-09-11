@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328708278578",
+    "project_id": "pushnotifications-180e3",
+    "storage_bucket": "pushnotifications-180e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328708278578:android:a07d391520148fae70af2b",
+        "android_client_info": {
+          "package_name": "com.nav__igations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLEAj-Fbc1rpwxWjUYwaYSvYxt-aQITM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
