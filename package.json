@@ -33,6 +33,7 @@
     "react-native-tab-view": "^3.5.2",
     "react-redux": "^9.1.2",
     "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
     "yup": "^1.4.0"
   },
   "devDependencies": {
